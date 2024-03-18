@@ -1,0 +1,11 @@
+.billing-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Canh giữa các ký tự */
+    gap: 10px; /* Khoảng cách giữa các dòng */
+  }
+  
+  .pay-now-button {
+    margin-top: 100px; /* Khoảng cách giữa button và các dòng trên */
+  }
+  

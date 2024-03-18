@@ -1,0 +1,44 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    border-top: 20px;
+    /* border: 1px solid black; */
+    background-color: aliceblue;
+}
+
+.footer .logo p {
+color: var(--text-color);
+}
+
+.social__links span a {
+    text-decoration:  none;
+    color: var(--heading-color);
+    font-size: 1.2rem;
+    
+}
+
+.footer__link-title {
+    color: var(--heading-color);
+    margin-bottom: 1rem;
+
+}
+
+.footer__quick-links li a {
+    text-decoration: none;
+    color: var(--text-color);
+    font: 1.1rem;
+}
+
+.footer__quick-links h6 span i {
+    color: var(--secondary-color);
+    font-size: 1.1rem;
+}
+
+.copyright{
+    color: var(--text-color);
+    font-size: 1rem;
+}
+
+.footer__quick-links li {
+    background-color: aliceblue;
+}

@@ -1,0 +1,161 @@
+
+
+.property__content {
+    border-radius: 0.5rem;
+    border: 1px solid rgb(229, 231, 235);
+    padding: 2rem;
+
+}
+
+.property__top {
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-weight: 500px;
+}
+
+.property__top button {
+    width: 100%;
+    color: black;
+    border: 1px solid rgba(166, 164, 164, 0.6);;
+    padding: 5px 10px;
+    cursor: pointer;
+    
+}
+.property__top #rentButton {
+    font-weight: 600;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+.property__top #exchangeButton {
+    font-weight: 600;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.property__top button.active {
+    background-color: var(--secondary-color);
+
+}
+.property {
+    border: none;
+}
+
+.property__info-form input {
+    position: relative;
+    width: 100%;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    height: 80px; /* Adjust height as needed */
+}
+
+.property__form input:focus {
+    outline: none;
+}
+
+.property__info-form {
+    padding-top: 1rem;
+}
+
+.property__info-form input::placeholder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.5rem; /* Adjust padding as needed */
+    color: gray; /* Adjust placeholder color if needed */
+    font-size: 1rem; /* Adjust font size if needed */
+}
+
+.property__info-form input {
+    padding-top: 0.375rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.375rem;
+    padding-left: 0.75rem;
+}
+
+.property__location {
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.property__thanhpho {
+    width: 50%;
+    margin-right: 10px;
+}
+.property__thanhpho input {
+    width: 100%;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    height: 40px;
+    padding-top: 0.375rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.375rem;
+    padding-left: 0.75rem;
+}
+
+.property__quan {
+    width: 50%;
+}
+
+.property__quan input {
+    width: 100%;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    height: 40px;
+    padding-top: 0.375rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.375rem;
+    padding-left: 0.75rem;
+}
+
+.property__mucgia {
+    width: 98%;
+    margin-right: 20px;
+}
+.property__mucgia input {
+    width: 100%;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    height: 40px;
+    padding-top: 0.375rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.375rem;
+    padding-left: 0.75rem;
+}
+
+.property__donvi {
+    width: 2%;
+}
+.property__donvi input {
+    width: 100%;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    height: 40px;
+    padding-top: 0.375rem;
+    padding-right: 0.75rem;
+    padding-bottom: 0.375rem;
+    padding-left: 0.75rem;
+}
+
+.property__photoinformation span{
+    font-size: 1rem;
+}
+
+.property__IMGVD {
+    border-radius: 0.5rem;
+    border: 1px solid rgb(229, 231, 235);
+    padding: 2rem;
+}
+
+.property__submit {
+    text-align: center;
+}

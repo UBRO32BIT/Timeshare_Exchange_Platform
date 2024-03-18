@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Amiana Resort",
+    "city": "Nha Trang",
+    "address": "Somewhere in NhaTrang",
+    "distance": 300,
+    "price": 12.456,
+    "price2": 199,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "time": "Jan 10-25 to March 09-24",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "newrental": true
+  },
+  {
+    "title": "Resort VinpearLand",
+    "city": "Nha Trang",
+    "address": "Somewhere in NhaTrang",
+    "distance": 200,
+    "price": 11.111,
+    "price2": 230,
+    "maxGroupSize": 8,
+    "time": "Feb 10-25 to June 09-24",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "newrental": true
+  },
+  {
+    "title": "DaLat Wonder Resort",
+    "city": "Da Lat",
+    "address": "Somewhere in DaLat",
+    "distance": 333,
+    "price": 13.333,
+    "price2": 150,
+    "maxGroupSize": 8,
+    "time": "Feb 08-01 to June 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "newrental": true
+  },
+  {
+    "title": "Spa Ha Long",
+    "city": "Ha Long Bay",
+    "address": "Somewhere in HaLong",
+    "distance": 345,
+    "price": 12.345,
+    "price2": 170,
+    "maxGroupSize": 8,
+    "time": "March 08-01 to Sep 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "newrental": true
+  },
+  {
+    "title": "Premier Village Ha Long",
+    "city": "Ha Long Bay",
+    "address": "Somewhere in HaLong",
+    "distance": 345,
+    "price": 19.999,
+    "price2": 189,
+    "maxGroupSize": 8,
+    "time": "March 01-01 to Sep 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "newrental": true
+  },
+  {
+    "title": "FLC Halong Bay Golf Club",
+    "city": "Ha Long Bay",
+    "address": "Somewhere in HaLong",
+    "distance": 333,
+    "price": 16.666,
+    "price2": 299,
+    "maxGroupSize": 8,
+    "time": "June 01-01 to Sep 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "newrental": true
+  },
+  {
+    "title": "VILLA BAYFRONT ONGLANG",
+    "city": "Phu Quoc",
+    "address": "Somewhere in Phu Quoc",
+    "distance": 500,
+    "price": 12.000,
+    "price2": 279,
+    "maxGroupSize": 8,
+    "time": "June 01-01 to Sep 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "newrental": true
+  },
+  {
+    "title": "DaLat Wonder Resort",
+    "city": "Da Lat",
+    "address": "Somewhere in DaLat",
+    "distance": 333,
+    "price": 13.333,
+    "maxGroupSize": 8,
+    "time": "Feb 08-01 to June 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "newrental": true
+  },
+  {
+    "title": "InterContinental Phu Quoc",
+    "city": "Phu Quoc",
+    "address": "Somewhere in Phu Quoc",
+    "distance": 500,
+    "price": 18.888,
+    "price2": 379,
+    "maxGroupSize": 5,
+    "time": "Feb 08-01 to June 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "newrental": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "price2":399,
+    "maxGroupSize": 8,
+    "time": "Feb 08-01 to June 09-01",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "newrental": false
+  }
+]

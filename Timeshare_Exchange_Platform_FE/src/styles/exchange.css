@@ -1,0 +1,11 @@
+.box-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0 4px gray;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
